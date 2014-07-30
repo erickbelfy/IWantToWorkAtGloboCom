@@ -1,19 +1,74 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+__Área de Esporte.__
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
+##Erick Belfort##
 
-[Preencha aqui o seu cv]
+Ao longo da minha carreira trabalhei com diversas equipes com perfis diferentes, porém, todas elas necessitam de um profissional que tenha conhecimento em todas as áreas no desenvolvimento de aplicações web. Posso me considerar um desenvolvedor híbrido, tenho facilidade em dar vazão aos problemas propostos independente da tecnologia aplicada.
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Minha fonte de conhecimento está focada no desenvolvimento de aplicações web de alta interatividade e campanhas digitais. Também tenho experiência em outra áreas como aplicativos mobile, jogos digitais e administração de servidores.
+
+### Habilidades ###
++ HTML
++ CSS
++ Javascript
++ Python
++ PHP
++ Configuração de servidores
++ Sistemas para controle de versão
++ NodeJS
++ Ruby (intermediário)
+
+###Experiência###
+
+####RC Comunicação : Full Stack Developer (2 anos e 4 meses)
+
+Desenvolvimento de aplicações publicitárias com enfase no publico final, criando sites com alto nivel de usabilidade atendendo niveis de qualidade de software do mercado web.
+
+__Atividades:__
++ Front end utilizando HTML, CSS Javascript modular com o suporte RequireJS;
++ Desenvolvimento de CMS em Django, desenvolvimento de algorítmos em python;
++ Workflow das aplicações web utilizando Yeoman, GruntJS e algumas tarefas em fabric;
++ Manter, testar e validar a persistência dos dados entregue para a aplicação.
+
+__Trabalhos recentes__
++ http://blinkimagens.com.br 
++ http://minas2016.olh.am/
++ http://posgraduacaosenac.com.br/
++ http://tempocirurgiaplastica.com.br
++ http://onefitacademia.com.br
++ http://rccomunicacao.com.br
+
+__Prêmios__
+
++ Agência Digital - Minas Comunicação do ano 2013
++ Lets's Rock - Guarani FM - Grand Prix em Digital - Prêmio Minas Comunicação 2013
++ Boulevard Shopping - Namorados Conectados - Prata Prêmio Minas Comunicação 2014
+
+####Yap: Full Stack Developer (2 anos)
+
+__Atividades:__
++ Desenvolvimento da plataforma do maior portal de carros seminovos de BH em Zend Framework
++ Front-end HTML, CSS e Javascript
++ Automatizar tarefas com cron jobs
++ Minificação de código com capistrano
++ Manutenção dos servidores
++ Performance
+
+__Trabalhos:__
++ http://seminovosbh.com.br
+
+####MIND: Front-End Developer (1 ano)
+
+__Atividades:__
++ Front-end HTML, CSS e Javascript
++ Foco em SEO
++ Semântica
+
+__Informações Complementares:__
++ linkedin : https://www.linkedin.com/pub/erick-belfort/24/131/a9
++ twitter: http://twitter.com/erickbelfy
